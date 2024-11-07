@@ -165,11 +165,11 @@ The **Operating System Concepts** folder provides projects that illustrate essen
    git clone https://github.com/SudeCat/C-Projects-Example.git
    cd C-Projects-Example
 2. **Compile and Run**:
-   Navigate to the relevant folder, compile the file using gcc, and execute it according to the instructions provided for each project.
+   -  Navigate to the relevant folder, compile the file using gcc, and execute it according to the instructions provided for each project.
 
 4. **Explore and Learn**:
-   Each project demonstrates specific programming principles and techniques. Use these examples to study algorithms, practice C programming, or explore operating system concepts.
+   -  Each project demonstrates specific programming principles and techniques. Use these examples to study algorithms, practice C programming, or explore operating system concepts.
 
-Contributing
+### Contributing
 
-Contributions are welcome! If you have improvements, suggestions, or new projects to add, feel free to fork the repository and create a pull request.
+ - Contributions are welcome! If you have improvements, suggestions, or new projects to add, feel free to fork the repository and create a pull request.
