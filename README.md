@@ -1,4 +1,3 @@
-# C-Projects-Examples
 # C Projects Example
 
 Welcome to the **C Projects Example** repository! This collection contains various projects and code samples written in C, organized into categories for easier navigation. These projects cover essential programming concepts, algorithms, game implementations, and operating system topics, making this repository a valuable resource for learning C and exploring various programming techniques.
